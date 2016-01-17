@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6cb9832-f531-4a46-ad8a-5830e2bc28e7" name="Default" comment="first commit">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/license.txt" afterPath="$PROJECT_DIR$/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config-sample.php" afterPath="$PROJECT_DIR$/wp-config-sample.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-config.php" afterPath="$PROJECT_DIR$/wp-config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/blog-page.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/blog-page.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/changelog.TXT" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/changelog.TXT" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/comments.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/comments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/contact.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/contact.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/content-blog.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/content-blog.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/css/bbpress.css" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/css/bbpress.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/custom-css.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/custom-css.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/footer.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/header.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/ie.css" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/ie.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/languages/es_ES.po" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/languages/es_ES.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/languages/pt_BR.po" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/languages/pt_BR.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/languages/ro_RO.po" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/languages/ro_RO.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/languages/sr_RS.po" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/languages/sr_RS.po" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/admin/evolve-exts/class-evolve-redux-customizer-section.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/admin/evolve-exts/class-evolve-redux-customizer-section.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/evolve.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/evolve.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/extensions/semantic-classes.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/extensions/semantic-classes.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/basic-functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/basic-functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/comments.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/comments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/functions.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/functions.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/hooks.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/hooks.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/pluggable.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/pluggable.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/widgets.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/functions/widgets.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/css/ie.css" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/css/ie.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/css/print.css" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/css/print.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/css/reset.css" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/css/reset.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/buttons.js" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/buttons.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/carousel.js" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/carousel.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/fields.js" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/fields.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/hoverIntent.js" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/hoverIntent.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/jquery.scroll.pack.js" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/jquery.scroll.pack.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/main.js" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/parallax/modernizr.js" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/parallax/modernizr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/parallax/parallax.css" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/parallax/parallax.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/parallax/parallax.js" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/parallax/parallax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/tabs.js" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/tabs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/tipsy.js" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/library/media/js/tipsy.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/license.txt" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/navigation.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/navigation.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/searchform.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/searchform.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/sidebar-2.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/sidebar-2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/sidebar.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/sidebar.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/social-buttons.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/social-buttons.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/sticky-header.php" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/sticky-header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/smartcode/style.css" afterPath="$PROJECT_DIR$/wp-content/themes/smartcode/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/images/pattern-dark.svg" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/images/pattern-dark.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/images/pattern-light.svg" afterPath="$PROJECT_DIR$/wp-content/themes/twentyfourteen/images/pattern-light.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-includes/images/crystal/license.txt" afterPath="$PROJECT_DIR$/wp-includes/images/crystal/license.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/jquery-migrate.js" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/jquery-migrate.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-includes/js/jquery/jquery-migrate.min.js" afterPath="$PROJECT_DIR$/wp-includes/js/jquery/jquery-migrate.min.js" />
+    </list>
+    <ignored path="smartcoders.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="smartcoders" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.txt" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/wp-config.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="width" value="1026" />
+    <option name="height" value="743" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smartcoders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smartcoders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smartcoders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smartcoders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smartcoders" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6cb9832-f531-4a46-ad8a-5830e2bc28e7" name="Default" comment="" />
+      <created>1453022309318</created>
+      <option name="number" value="Default" />
+      <updated>1453022309318</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1453024107299</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1453024107299</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1026" height="743" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5176471" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2617587" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Command Line Tools Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5126051" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24118738">
+          <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
